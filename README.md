@@ -53,7 +53,7 @@ I believe in writing clean, efficient, and scalable code, whether it's solving L
   <img src="https://img.shields.io/badge/-LeetCode-000000?style=flat&logo=leetcode&logoColor=FFA116">
   <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white">
   <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white">
-  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=gfg&logoColor=white">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2EC866?style=flat&logo=GeeksforGeeks&logoColor=white">
 </p>
 
 ---
